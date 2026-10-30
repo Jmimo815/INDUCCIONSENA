@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para la integración de Google Drive y Google Sheets en el Sistema de Inducción SENA. Contempla la configuración de OAuth 2.0 (Drive y Sheets), la creación automática de la hoja de cálculo institucional de la ficha, la sincronización en tiempo real de los datos de caracterización socioeconómica, estilos de aprendizaje VAK, progreso de inducción y calificaciones de evaluación, junto con el panel de control de sincronización para instructores y directivos.",
+  "updatedAt":  "2026-10-28T16:28:55.803636118Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

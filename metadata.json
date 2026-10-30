@@ -1,0 +1,6 @@
+{
+  "name": "Inducción SENA - Gestión y Evaluación de Aprendices",
+  "description": "Sistema integral de inducción para aprendices del SENA: formación interactiva en valores institucionales, derechos, deberes, reglamento del aprendiz y evaluación de apropiación con certificación y panel de instructor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
